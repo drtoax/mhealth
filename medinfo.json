@@ -1,0 +1,71 @@
+{
+  "patient_info": [
+    {
+      "patient_id": 1,
+      "patient_firstname": "hello",
+      "patient_lastname": "hello",
+      "patient_othername": "hello",
+      "patient_insurance": "hello",
+      "patient_gender": "hello",
+      "patient_dob": "hello",
+      "patient_homephone": "hello",
+      "patient_officephone": "hello",
+      "patient_otherphone": "hello",
+      "patient_maritalstatus": "hello",
+      "patient_email": "hello",
+      "patient_folderstatus": "hello",
+      "patient_ethnicity": "hello",
+      "patient_empstatus": "hello",
+      "patient_employer": "hello",
+      "patient_employeradd": "hello",
+      "patient_employerphone": "hello"
+     },
+      {
+      "patient_id": 1,
+      "patient_firstname": "hello",
+      "patient_lastname": "hello",
+      "patient_othername": "hello",
+      "patient_insurance": "hello",
+      "patient_gender": "hello",
+      "patient_dob": "hello",
+      "patient_homephone": "hello",
+      "patient_officephone": "hello",
+      "patient_otherphone": "hello",
+      "patient_maritalstatus": "hello",
+      "patient_email": "hello",
+      "patient_folderstatus": "hello",
+      "patient_ethnicity": "hello",
+      "patient_empstatus": "hello",
+      "patient_employer": "hello",
+      "patient_employeradd": "hello",
+      "patient_employerphone": "hello"
+     },
+      {
+      "patient_id": 1,
+      "patient_firstname": "hello",
+      "patient_lastname": "hello",
+      "patient_othername": "hello",
+      "patient_insurance": "hello",
+      "patient_gender": "hello",
+      "patient_dob": "hello",
+      "patient_homephone": "hello",
+      "patient_officephone": "hello",
+      "patient_otherphone": "hello",
+      "patient_maritalstatus": "hello",
+      "patient_email": "hello",
+      "patient_folderstatus": "hello",
+      "patient_ethnicity": "hello",
+      "patient_empstatus": "hello",
+      "patient_employer": "hello",
+      "patient_employeradd": "hello",
+      "patient_employerphone": "hello"
+     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
+
+
+
