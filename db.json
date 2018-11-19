@@ -1,10 +1,10 @@
 {
   "patient_info": [
     {
-      "patient_id": 1,
-      "patient_firstname": "hello",
-      "patient_lastname": "hello",
-      "patient_othername": "hello",
+      "patient_id": "1",
+      "patient_firstname": "TOAX",
+      "patient_lastname": "MBAH",
+      "patient_othername": "ALEX",
       "patient_insurance": "hello",
       "patient_gender": "hello",
       "patient_dob": "hello",
@@ -21,10 +21,10 @@
       "patient_employerphone": "hello"
      },
       {
-      "patient_id": 1,
-      "patient_firstname": "hello",
-      "patient_lastname": "hello",
-      "patient_othername": "hello",
+      "patient_id": "2",
+      "patient_firstname": "MARK",
+      "patient_lastname": "ALELE",
+      "patient_othername": "MARKO",
       "patient_insurance": "hello",
       "patient_gender": "hello",
       "patient_dob": "hello",
@@ -41,10 +41,10 @@
       "patient_employerphone": "hello"
      },
       {
-      "patient_id": 1,
-      "patient_firstname": "hello",
-      "patient_lastname": "hello",
-      "patient_othername": "hello",
+      "patient_id": "3",
+      "patient_firstname": "OBINNA",
+      "patient_lastname": "OKOYE",
+      "patient_othername": "OBINO",
       "patient_insurance": "hello",
       "patient_gender": "hello",
       "patient_dob": "hello",
