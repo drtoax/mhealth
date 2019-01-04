@@ -81,6 +81,28 @@
       "patient_employerphone": "hello"
      }
   ],
+  "patient_allergy": [
+    {
+      "patient_id": "1",
+      "drug": "amoxil",
+      "details": "headache"
+     },
+    {
+      "patient_id": "2",
+      "drug": "pennicillin",
+      "details": "eye issue"
+     },
+    {
+      "patient_id": "3",
+      "drug": "slones",
+      "details": "sprain"
+     },
+    {
+      "patient_id": "4",
+      "drug": "panadol",
+      "details": "headache"
+     }
+  ],
   "profile": {
     "name": "typicode"
   }
