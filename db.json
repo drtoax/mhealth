@@ -85,18 +85,6 @@
     {
       "drug": "amoxil",
       "details": "headache"
-     },
-    {
-      "drug": "pennicillin",
-      "details": "eye issue"
-     },
-    {
-      "drug": "slones",
-      "details": "sprain"
-     },
-    {
-      "drug": "panadol",
-      "details": "headache"
      }
   ],
   "profile": {
