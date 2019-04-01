@@ -30,8 +30,22 @@
       "partnerfridayservice": "hello",
       "partnersaturdayservice": "hello",
       "partnersundayservice": "hello"
-     
-     
+      },
+    {
+       "partnerimage": "1",
+      "partnername": "TOAX",
+      "partneraddress": "MBAH",
+      "partneremail": "ALEX",
+      "partnerphone": "hello",
+      "partnercity": "hello",
+      "partnerstate": "hello",
+      "partnermondayservice": "hello",
+      "partnertuesdayservice": "hello",
+      "partnerwednesdayservice": "hello",
+      "partnerthursdayservice": "hello",
+      "partnerfridayservice": "hello",
+      "partnersaturdayservice": "hello",
+      "partnersundayservice": "hello"
      },
     {
        "partnerimage": "1",
@@ -48,24 +62,6 @@
       "partnerfridayservice": "hello",
       "partnersaturdayservice": "hello",
       "partnersundayservice": "hello"
-     
-     },
-    {
-       "partnerimage": "1",
-      "partnername": "TOAX",
-      "partneraddress": "MBAH",
-      "partneremail": "ALEX",
-      "partnerphone": "hello",
-      "partnercity": "hello",
-      "partnerstate": "hello",
-      "partnermondayservice": "hello",
-      "partnertuesdayservice": "hello",
-      "partnerwednesdayservice": "hello",
-      "partnerthursdayservice": "hello",
-      "partnerfridayservice": "hello",
-      "partnersaturdayservice": "hello",
-      "partnersundayservice": "hello"
-     
      }
   ]
   
