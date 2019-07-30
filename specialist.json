@@ -101,7 +101,42 @@
       "status": "active"
      },
       
+
+  ,
+
+      
+
   {
+
+    "firstname": "Usman",
+
+      "lastname": "usman",
+
+      "othernames": "usman",
+
+      "address": "9mobile",
+
+      "phone": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/rosetta.jpg",
+
+      "email": "hello",
+
+      "website": "hello",
+
+      "description": "hello",
+
+      "region": "hello",
+
+      "state": "hello",
+
+      "lga": "hello",
+
+      "docpicture": "hello",
+
+      "specialty": "0",
+
+      "status": "inactive"
+
+     }{
     "firstname": "3",
       "lastname": "1",
       "othernames": "EMMA",
