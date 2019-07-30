@@ -71,8 +71,7 @@
       "firstname": "3",
       "lastname": "1",
       "othernames": "EMMA",
-,
-    "address": "MBAH",
+      "address": "MBAH",
       "phone": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/rosetta.jpg",
       "email": "hello",
       "website": "hello",
@@ -117,7 +116,7 @@
       "specialty": "0",
       "status": "inactive"
 
-     }{
+     },{
     "firstname": "3",
       "lastname": "1",
       "othernames": "EMMA",
